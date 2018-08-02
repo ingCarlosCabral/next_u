@@ -1,0 +1,149 @@
+body{
+    margin: 0%;
+    font-family:Supermarketed; 
+    display: block;
+}
+
+header {
+    background:#fff;
+    border-bottom:6px solid #33a4c9;
+    padding: 10px 0;
+    overflow: hidden;
+    padding-bottom: ‒10;
+    height: 200px;
+    padding: 10px;
+   
+}
+
+header figure {
+		/* border: 2px solid #eee; */
+		/* border-radius: 78px; */
+		float: right;
+		height: 156px;
+        width: 156px;
+        
+	}
+    header figure img {
+		border-radius: 75px;
+		height: 150px;
+		position: relative;
+		width: 150px;
+    }
+    header hgroup {
+		float: left;
+		padding: 42px 0;
+	}
+	
+	header hgroup h1 {
+		color:#555;
+		font-family:Supermarketed;
+    }
+    header hgroup h2 {
+		color:#555;
+		font-family:Supermarketed;
+    }
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        overflow: hidden;
+        background-color: #333;  
+        
+    } 
+    div ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        display: inline;
+        
+      
+    } 
+    
+    
+    li {
+        float: left;
+    }
+    
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 16px;
+        text-decoration: none;
+        font-family:Supermarketed;
+    }
+    
+    li a:hover {
+        background-color: #828282;
+    }
+    .comeback a:hover{
+        background-color: #828282;
+    }
+ 
+    #low {
+        background-color: #333;
+        position: fixed;
+        width: 100%;
+        bottom: 0px;
+        text-align: center;
+        font-family:Supermarketed;
+    
+    }
+    spam a{
+        list-style-type: none;
+        float: left!important;
+        display: block;
+        color: white;
+        padding: 15px;
+        font-family:Supermarketed;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    aside{
+        font-size: 20px;
+        margin-top: 0%;
+       padding: 15px;
+       padding-bottom: 100px;
+    
+       }
+
+       form {
+        bottom: 0%;
+        border: 3px solid #f1f1f1;
+        font-family:Supermarketed;
+        padding: 10px;
+        padding-bottom: 100px;
+        
+    }
+    label{
+        font-size: 20px;
+        font-style: initial;
+        font-weight: bold;
+    }
+
+ #conocimientos{
+     text-align: center;
+ }
+    
+ #contact{
+     color: #fff;
+ }
+ #datospersonales{
+     padding: 15px !important;
+
+ }
+section{
+    padding: 10px;
+    
+}
+#agregarestudio{
+    padding:10px;
+}
+table {
+    width: 100%;
+}
+table tr th{
+    text-align: left;
+}
